@@ -1,7 +1,7 @@
 Please check everything below before requesting a reviewer :^)
 
-- [ ] Check for console.logs
-- [ ] Check for white space
-- [ ] Check for unused comments
-- [ ] Check formatting
-- [ ] Ensure any repo tests pass locally
+- [ ] `console.log`s removed
+- [ ] Extra white space removed
+- [ ] Unused comments removed
+- [ ] Formatting correct
+- [ ] Tests pass locally
