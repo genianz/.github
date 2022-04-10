@@ -4,4 +4,8 @@ Please check everything below before requesting a reviewer :^)
 - [ ] Extra white space removed
 - [ ] Unused comments removed
 - [ ] Formatting correct
-- [ ] Tests pass locally
+
+Please do not request a review on a pull request if checks don't pass, unless you comment/explain a good reason why (e.g. your PR is based off of another, and that is currently not passing).
+
+Warmest regards,
+Your fellow developers
