@@ -1,11 +1,9 @@
-Please check everything below before requesting a reviewer :^)
+## Genia's PULL Request checklist
 
-- [ ] `console.log`'s removed
-- [ ] Extra white space removed
+Please check everything below before requesting a reviewer...
+
+- [ ] Version number is correct for next release in package.json
+- [ ] Changelog has been updated with version number and changes logged
+- [ ] No ENV files / Passwords / Secret data in repo
 - [ ] Unused comments removed
-- [ ] Formatting correct
-
-Please do not request a review on a pull request if checks don't pass, unless you comment/explain a good reason why (e.g. your PR is based off of another, and that is currently not passing).
-
-Warmest regards,
-Your fellow developers
+- [ ] Formatting is correct
