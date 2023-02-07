@@ -1,9 +1,10 @@
-## Genia's PULL Request checklist
+## ✅ Genia's PULL Request checklist
 
 Please check everything below before requesting a reviewer...
 
-- [ ] Version number is correct for next release in package.json
-- [ ] Changelog has been updated with version number and changes logged
-- [ ] No ENV files / Passwords / Secret data in repo
-- [ ] Unused comments removed
-- [ ] Formatting is correct
+- [ ] Version number is correctly set for next release.
+- [ ] CHANGELOG.md has been updated next version number and changes logged.
+- [ ] No ENV files / Passwords / Secret data in repo.
+- [ ] Formatting is correct.
+
+**By ticking the approve I CONFIRM these actions have been done. 🫡**
